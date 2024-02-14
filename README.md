@@ -1,6 +1,3 @@
-Below is a template for a README.md file for your GitHub repository, which demonstrates the usage of MarianNMT for language translation. This README includes sections for a brief introduction, installation instructions, usage, and licensing. You can adjust the content to better fit the specifics of your project or repository.
-
-```markdown
 # MarianNMT Translation Demo
 
 This repository provides a simple Python application demonstrating the use of MarianNMT for machine translation, specifically translating text from English to Spanish using the Hugging Face `transformers` library.
@@ -57,6 +54,3 @@ This project is open-sourced under the MIT License. See the LICENSE file for mor
 
 - Thanks to the Hugging Face team for the `transformers` library.
 - Thanks to the MarianNMT team for their work on the translation framework.
-```
-
-Make sure to replace placeholder texts and instructions as necessary to better match your project's setup and goals. If your project requires additional steps, dependencies, or has specific usage instructions, be sure to include those details in the relevant sections.
